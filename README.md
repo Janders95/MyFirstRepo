@@ -6,6 +6,6 @@ image https://docs.google.com/document/d/1Ye12HEEwWye7UfQpTZNEXDXVFP2tFVXJ7sFO-L
 ## Assignment
 Part 4 tire
 ## picture
-![Thetire](images/Thetire.png)
+![the tire](images/thetire.jpg)
 ## reflection
 i learned that a trapezoid can make a circle if you extrude it
